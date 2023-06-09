@@ -11,7 +11,10 @@
 
 ## View
 ### 
-
+- Need not be a part of MVC app
+- These days implemented using frameworks like Angular, React etc.
+- Displays data to the user.
+- 
 ## Controllers
 ### Act as interaction b/w the view and Functionality
   - Components of controllers

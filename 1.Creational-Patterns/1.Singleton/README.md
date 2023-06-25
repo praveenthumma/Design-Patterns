@@ -1,6 +1,6 @@
 # Singleton Pattern
 
-## Basic Singleon
+## Basic Singleton
 
 
 ```java

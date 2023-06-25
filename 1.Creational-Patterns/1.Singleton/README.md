@@ -80,3 +80,9 @@ public class NestedSingleton {
     }
 }
 ```
+### Notes
+- JVM loads the class and it loads it executes all the static blocks thus initializing the singleton instance (NestedSingleton)
+- When getInstance() is called it simply returns the Instance .
+- Since this Singleton implementation is natively implemented byJVM. It is the fastest.
+
+
